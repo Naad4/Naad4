@@ -3,7 +3,7 @@
 ## About me
 🙋‍♂️  My name is Daniel
 
-🌱 I’m currently learning  javascript
+🌱 I'm currently studying to be a full stack developer
 
 📫 How to reach me: danieljunior50065@gmail.com
 
