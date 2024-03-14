@@ -1,12 +1,13 @@
 ### Hello,welcome to my github profile! 👋
 
-
+## About me
 🙋‍♂️  My name is Daniel
 
 🌱 I’m currently learning  javascript
 
 📫 How to reach me: danieljunior50065@gmail.com
 
+### My Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naad4&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naad4&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
