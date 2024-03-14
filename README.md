@@ -5,7 +5,7 @@
 
 🌱 I'm currently studying to be a full stack developer
 
-📫 How to reach me: danieljunior50065@gmail.com
+🌱 Studying technology in systems analysis and development
 
 ## My Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naad4&show_icons=true&theme=radical)
