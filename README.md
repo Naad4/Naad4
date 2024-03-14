@@ -7,11 +7,12 @@
 
 📫 How to reach me: danieljunior50065@gmail.com
 
-### My Github Status
+## My Github Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naad4&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naad4&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## My Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
