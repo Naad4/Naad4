@@ -7,4 +7,4 @@
 
 📫 How to reach me: danieljunior50065@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naad4&hide=contribs,prs)
