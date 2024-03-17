@@ -1,18 +1,18 @@
-### Hello,welcome to my github profile! 👋
+### Olá,bem vindo ao meu perfil do github! 👋
 
-## About me
-🙋‍♂️  My name is Daniel
+## Sobre mim
+🙋‍♂️  Meu nome é Daniel
 
-🌱 I'm currently studying to be a full stack developer
+🌱 Atualmente estou estudando para ser um full stack developer
 
-🌱 Studying technology in systems analysis and development
+🌱 Fazendo faculdade de análise e desenvolvimento de sistemas
 
-## My Github Status
+## Meu Github Status 👨‍💻
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naad4&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naad4&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## My Skills
+## Minhas Skills 🔥
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -23,7 +23,7 @@
 
 </div>
 
-## My Social Networks
+## Minhas Redes Sociais 📱
 
 <div>
   <a href="https://www.instagram.com/daan_sjr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,6 +32,6 @@
   
 </div>
 
-## My projects
+## Meus projetos 📂
 
-https://github.com/Naad4/Digital-Bank
+🏦[Digital Bank](https://github.com/Naad4/Digital-Bank)
